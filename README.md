@@ -5,6 +5,8 @@ Automated bulk asset import for Snipe-IT with automatic user assignment and chec
 ## Features
 
 - Bulk import user/assets from CSV
+- Skip existing users (no duplicates)
+- Update existing users (if there are any changes on .csv file)
 - Automatically assign assets to users by email
 - Checkout assets to users on creation
 - Skip existing assets (no duplicates)
